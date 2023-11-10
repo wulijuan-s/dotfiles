@@ -22,6 +22,7 @@ alias norg="gron --ungron"
 alias ungron="gron --ungron"
 alias j="jobs"
 alias follow="tail -f -n +1"
+alias ls='ls --color'
 
 # COLOURS! YAAAY!
 export TERM=xterm-256color
